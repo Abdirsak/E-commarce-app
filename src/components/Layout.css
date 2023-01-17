@@ -1,0 +1,21 @@
+.ant-layout.ant-layout-has-sider{
+    min-height: 100vh;
+}
+.anticon svg {
+    font-size: 25px;
+}
+
+.ant-layout-header .anticon svg {
+    margin-left: 10px;
+}
+.ant-menu-title-content{
+    font-size: 18px;
+}
+.logo{
+    text-align: center;
+    margin: 15px 0;
+}
+.logo-title{
+    letter-spacing: 1.3px;
+    color: #ffffff;
+}
